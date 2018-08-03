@@ -1,6 +1,6 @@
-projects/dermatologist-ai/data
-projects/dog-breed/dogImages
-projects/dog-breed/images
+projects/derma-ai/data
+projects/dog-breed-cnn/dogImages
+projects/dog-breed-cnn/images
 
 # Mac OS
 .DS_Store
